@@ -10,7 +10,7 @@
 ## Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fr0st-iwnl/mpv-configs/main/Windows%20Settings/mpv.png?token=GHSAT0AAAAAACUIWXCUVURFP6QYARJW6BX4ZU5VQAQ" alt="mpv">
+  <img src="https://raw.githubusercontent.com/fr0st-iwnl/mpv-configs/main/Settings/mpv.png?token=GHSAT0AAAAAACUIWXCUEH2GO7Q3XRA4SDTGZU5YRLQ" alt="mpv">
 </p>
 
 
