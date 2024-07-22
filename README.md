@@ -6,6 +6,9 @@
    <!--no images atm here-->
   </p>
 
+
+## Preview
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/fr0st-iwnl/mpv-configs/main/Windows%20Settings/mpv.png?token=GHSAT0AAAAAACUIWXCUVURFP6QYARJW6BX4ZU5VQAQ" alt="mpv">
 </p>
