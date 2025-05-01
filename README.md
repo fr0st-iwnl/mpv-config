@@ -1,4 +1,4 @@
-# 🎵 mpv-config
+# 🎵 // mpv-config
 
 This repository contains my custom configuration for the **[mpv](https://mpv.io/)** media player.
 
