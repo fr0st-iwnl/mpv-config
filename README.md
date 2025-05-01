@@ -3,7 +3,7 @@
 This repository contains my custom configuration for the **[mpv](https://mpv.io/)** media player.
 
 <p align="center">
-  <img src="https://github.com/fr0st-iwnl/mpv-config/blob/main/Settings/mpv.png" href="https://mpv.io/" alt="mpv">
+  <img src="https://github.com/fr0st-iwnl/mpv-config/blob/main/src/mpv.png" href="https://mpv.io/" alt="mpv">
 </p>
 
 ## Installation
